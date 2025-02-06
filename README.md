@@ -3,13 +3,16 @@
 # Classifying Ancient Art with Neural Nets
 A deep learning project to classify ancient Greek, Roman, and Egyptian artwork by culture, medium, and time period.
 
+*University of Virginia, School of Data Science Master's Project*
+
+*To Note: The supporting code is compressed in a Zip file due to the large size of image data*
+
 ## Authors
 - Becky Desrosiers (rn7ena@virginia.edu)
 - Alexandra Ferentinos (kzk8qq@virginia.edu)
 - Peter Landers (bjs6pj@virginia.edu)
 - Brendan Jalali (bdj9wf@virginia.edu)
 
-University of Virginia, School of Data Science
 
 ## Project Overview
 This project implements deep learning techniques to classify ancient artwork across three dimensions:
